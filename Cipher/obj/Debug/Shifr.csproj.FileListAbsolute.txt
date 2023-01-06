@@ -1,0 +1,71 @@
+E:\Шифровки\bin\Debug\ib_lab.exe.config
+E:\Шифровки\obj\Debug\ib_lab.exe
+E:\Шифровки\obj\Debug\ib_lab.pdb
+E:\Шифровки\bin\Debug\ib_lab.exe
+E:\Шифровки\bin\Debug\ib_lab.pdb
+E:\Шифровки\obj\Debug\Shifr.csprojResolveAssemblyReference.cache
+E:\Шифровки\obj\Debug\ib_lab.Form1.resources
+E:\Шифровки\obj\Debug\ib_lab.Properties.Resources.resources
+E:\Шифровки\obj\Debug\Shifr.csproj.GenerateResource.Cache
+F:\Шифровки\bin\Debug\ib_lab.exe.config
+F:\Шифровки\bin\Debug\ib_lab.exe
+F:\Шифровки\bin\Debug\ib_lab.pdb
+F:\Шифровки\obj\Debug\Shifr.csprojAssemblyReference.cache
+F:\Шифровки\obj\Debug\ib_lab.Form1.resources
+F:\Шифровки\obj\Debug\ib_lab.Properties.Resources.resources
+F:\Шифровки\obj\Debug\Shifr.csproj.GenerateResource.cache
+F:\Шифровки\obj\Debug\Shifr.csproj.CoreCompileInputs.cache
+F:\Шифровки\obj\Debug\ib_lab.exe
+F:\Шифровки\obj\Debug\ib_lab.pdb
+F:\Родионова\Шифровки\bin\Debug\ib_lab.exe.config
+F:\Родионова\Шифровки\obj\Debug\ib_lab.exe
+F:\Родионова\Шифровки\obj\Debug\ib_lab.pdb
+F:\Родионова\Шифровки\bin\Debug\ib_lab.exe
+F:\Родионова\Шифровки\bin\Debug\ib_lab.pdb
+F:\Родионова\Шифровки\obj\Debug\Shifr.csprojResolveAssemblyReference.cache
+F:\Родионова\Шифровки\obj\Debug\ib_lab.Form1.resources
+F:\Родионова\Шифровки\obj\Debug\ib_lab.Properties.Resources.resources
+F:\Родионова\Шифровки\obj\Debug\Shifr.csproj.GenerateResource.Cache
+C:\Users\anast\Downloads\Шифровки (1)\Шифровки\bin\Debug\ib_lab.exe.config
+C:\Users\anast\Downloads\Шифровки (1)\Шифровки\obj\Debug\ib_lab.exe
+C:\Users\anast\Downloads\Шифровки (1)\Шифровки\obj\Debug\ib_lab.pdb
+C:\Users\anast\Downloads\Шифровки (1)\Шифровки\bin\Debug\ib_lab.exe
+C:\Users\anast\Downloads\Шифровки (1)\Шифровки\bin\Debug\ib_lab.pdb
+C:\Users\anast\Downloads\Шифровки (1)\Шифровки\obj\Debug\Shifr.csprojResolveAssemblyReference.cache
+C:\Users\anast\Downloads\Шифровки (1)\Шифровки\obj\Debug\ib_lab.Form1.resources
+C:\Users\anast\Downloads\Шифровки (1)\Шифровки\obj\Debug\ib_lab.Properties.Resources.resources
+C:\Users\anast\Downloads\Шифровки (1)\Шифровки\obj\Debug\Shifr.csproj.GenerateResource.Cache
+C:\Users\anast\Downloads\Шифровки (1)\Шифровки\obj\Debug\ib_lab.Form2.resources
+C:\Users\anast\Downloads\Шифровки (1)\Шифровки\obj\Debug\ib_lab.Form3.resources
+C:\Users\anast\Downloads\Шифровки (1)\Шифровки\obj\Debug\ib_lab.Form4.resources
+C:\Users\anast\Downloads\Шифровки (1)\Шифровки\obj\Debug\ib_lab.Form5.resources
+I:\Шифр\Готовый шифратор\Шифр\bin\Debug\ib_lab.exe.config
+I:\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.exe
+I:\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.pdb
+F:\Шифр\Готовый шифратор\Шифр\bin\Debug\ib_lab.exe.config
+F:\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.exe
+F:\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.pdb
+F:\Шифр\Готовый шифратор\Шифр\bin\Debug\ib_lab.exe
+F:\Шифр\Готовый шифратор\Шифр\bin\Debug\ib_lab.pdb
+F:\Шифр\Готовый шифратор\Шифр\obj\Debug\Shifr.csprojResolveAssemblyReference.cache
+F:\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.Form1.resources
+F:\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.Form2.resources
+F:\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.Form3.resources
+F:\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.Form4.resources
+F:\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.Form5.resources
+F:\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.Properties.Resources.resources
+F:\Шифр\Готовый шифратор\Шифр\obj\Debug\Shifr.csproj.GenerateResource.Cache
+H:\Колледж\Шифр\Готовый шифратор\Шифр\bin\Debug\ib_lab.exe.config
+H:\Колледж\Шифр\Готовый шифратор\Шифр\bin\Debug\ib_lab.exe
+H:\Колледж\Шифр\Готовый шифратор\Шифр\bin\Debug\ib_lab.pdb
+H:\Колледж\Шифр\Готовый шифратор\Шифр\obj\Debug\Shifr.csproj.AssemblyReference.cache
+H:\Колледж\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.Form1.resources
+H:\Колледж\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.Form2.resources
+H:\Колледж\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.Form3.resources
+H:\Колледж\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.Form4.resources
+H:\Колледж\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.Form5.resources
+H:\Колледж\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.Properties.Resources.resources
+H:\Колледж\Шифр\Готовый шифратор\Шифр\obj\Debug\Shifr.csproj.GenerateResource.cache
+H:\Колледж\Шифр\Готовый шифратор\Шифр\obj\Debug\Shifr.csproj.CoreCompileInputs.cache
+H:\Колледж\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.exe
+H:\Колледж\Шифр\Готовый шифратор\Шифр\obj\Debug\ib_lab.pdb
